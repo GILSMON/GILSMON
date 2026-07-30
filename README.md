@@ -16,9 +16,9 @@ Building production GenAI systems — agentic pipelines, RAG architectures, and 
 
 ** Enterprise Agentic Platform** — Multi-agent orchestration using MCP + A2A Protocol + LangGraph. Serves 1,000+ internal researchers across 3 apps with audit logging and access governance.
 
-** TCS R&I Knowledge Assistant** — Conversational RAG with dual-vector pgvector, CrossEncoder reranking. Reduced retrieval from 30+ min → <2s. 99.5% uptime on AWS EC2.
+** Knowledge Assistant** — Conversational RAG with dual-vector pgvector, CrossEncoder reranking. Reduced retrieval from 30+ min → <2s. 99.5% uptime on AWS EC2.
 
-** Cognitive Assessment System** — GCP-deployed RAG + Neo4j for dementia assessment. Face recognition pipeline (InsightFace + ByteTrack) — 94% accuracy across 12hr footage.
+.\
 
 ---
 
